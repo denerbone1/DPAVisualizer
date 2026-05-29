@@ -13,7 +13,7 @@ Visual dependency and architecture analyzer for developers :)
 
 ## Screenshots
 
-Soon :)
+Soon
 
 ## Future Plans
 
